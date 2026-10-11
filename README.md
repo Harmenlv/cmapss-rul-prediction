@@ -107,10 +107,10 @@ If you use this code in academic work, please cite the related paper(s) associat
 
 ```bibtex
 @article{your_rul_paper,
-  title   = {Your final paper title},
-  author  = {Your author list},
-  journal = {Journal name},
-  year    = {Year},
+  title   = {Sensor-Relation-Guided Adaptation of a Frozen Time-Series Foundation Model for Remaining Useful Life Prediction},
+  author  = {CC Xie, WY Xu, M Zhang and HJ Shao},
+  journal = {Under Review},
+  year    = {2026},
   doi     = {DOI}
 }
 ```

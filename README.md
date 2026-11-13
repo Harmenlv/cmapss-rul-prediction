@@ -1,5 +1,3 @@
-改好了，结构和事实全部保留（文件名、命令、数据说明、Chronos-2 的范围说明、引用条目），只把措辞和排版理顺，删掉重复表述和口语化句子。
-
 ```markdown
 # C-MAPSS Remaining Useful Life (RUL) Prediction
 
